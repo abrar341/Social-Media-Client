@@ -1,0 +1,16 @@
+.form {
+  background-color: red;
+  border: 1px solid gray;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+  min-width: 300px;
+}
+input,
+button {
+  padding: 10px;
+  font: 14px;
+}
